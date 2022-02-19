@@ -1,0 +1,7 @@
+2022/02/09-16:54:51.938 2120 Reusing MANIFEST C:/Users/phill/Documents/Unreal Projects/Albion_Project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/09-16:54:51.945 2120 Recovering log #3
+2022/02/09-16:54:51.946 2120 Reusing old log C:/Users/phill/Documents/Unreal Projects/Albion_Project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/02/09-17:19:47.611 4f20 Level-0 table #5: started
+2022/02/09-17:19:47.616 4f20 Level-0 table #5: 19665 bytes OK
+2022/02/09-17:19:47.620 4f20 Delete type=0 #3
+2022/02/09-17:19:47.620 4f20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
